@@ -4,6 +4,8 @@
 ## Descripción
 
 Este proyecto consiste en el diseño y construcción de un brazo robótico articulado controlado mediante una placa Arduino. El objetivo es crear un sistema robótico que pueda realizar movimientos precisos y repetitivos, ideal para tareas como la manipulación de objetos, soldadura, ensamblaje y otras aplicaciones industriales.
+![image](https://github.com/UTS23/BRAZO_ROBOTICO/assets/112002842/5e48817f-7fd1-4ad7-b361-a311f7769094)
+
 
 ## Características
 
