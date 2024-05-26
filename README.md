@@ -3,7 +3,8 @@
 
 ## Descripción
 
-Este proyecto consiste en el diseño y construcción de un brazo robótico articulado controlado mediante una placa Arduino. El objetivo es crear un sistema robótico que pueda realizar movimientos precisos y repetitivos, ideal para tareas como la manipulación de objetos. 
+
+"Este proyecto, con fines educativos, consiste en el diseño y construcción de un brazo robótico articulado controlado mediante una placa Arduino. El objetivo es crear un sistema robótico que pueda realizar movimientos precisos y repetitivos, ideal para tareas como la manipulación de objetos." 
 ![image](https://github.com/UTS23/BRAZO_ROBOTICO/assets/112002842/5e48817f-7fd1-4ad7-b361-a311f7769094)
 
 
@@ -38,7 +39,7 @@ Este proyecto consiste en el diseño y construcción de un brazo robótico artic
    - Conectar los servomotores a la placa Arduino siguiendo el esquema de conexiones.
 
 2. **Configuración del software:**
-   - Descargar e instalar el IDE de Arduino.
+   - Descargar e instalar el IDE de Arduino. https://www.arduino.cc/en/software.
    - Descargar el código fuente del repositorio y abrirlo en el IDE de Arduino.
    - Cargar el código en la placa Arduino.
 
@@ -56,9 +57,7 @@ Una vez que el brazo robótico está ensamblado y el código cargado, puedes con
 - **Control remoto (opcional):** Utilizar un módulo de control remoto para enviar comandos al Arduino y controlar el brazo a distancia.
 
 
-## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
 
 ## Contacto
 
