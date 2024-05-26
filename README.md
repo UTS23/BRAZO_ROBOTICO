@@ -1,4 +1,5 @@
-https://www.eduopinions.com/wp-content/uploads/2017/09/Unidades-Tecnol%C3%B3gicas-de-Santander-UTS-logo-350x250.png 
+![image](https://github.com/UTS23/BRAZO_ROBOTICO/assets/112002842/0cc70f7f-a8d1-4425-b9c8-a4bdd161efbe)
+
 # BRAZO_ROBOTICO
 # Diseño y ensamble de un brazo robótico articulado controlado por Arduino
 
